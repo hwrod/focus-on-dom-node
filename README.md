@@ -2,6 +2,8 @@
 
 **Focus on DOM Node** is a browser bookmarklet to hide all browser DOM nodes except the perfect one, great for distraction-free demos.
 
+# Installing
+
 Simply drag: <a href="#">Focus on DOM Node</a> 
 
 into your browser toolbar, *edit* the properties, and make the URL the contents of `bookmarklet.txt`. 
